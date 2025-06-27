@@ -149,12 +149,12 @@
         <input maxlength="100" bind:value={form.gapAnalysis} placeholder="Gap-Analysis and problem-elimination" class="p-3 border rounded-lg text-lg transition-all duration-200 hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500">
         <input maxlength="100" bind:value={form.Marketingdata} placeholder="Market / Marketing data" class="p-3 border rounded-lg text-lg transition-all duration-200 hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500">
 
-        <label for="visualizedProduct" class="block text-lg font-medium text-blue-600 mb-2">Visualized Product</label>
+        <label for="visualizedProduct" class="block text-lg font-medium text-blue-600 mb-2">Click here to upload </label>
         <div class="relative mb-4">
           <input type="file" id="visualizedProduct" on:change={(e) => file = e.target.files[0]} class="p-3 border rounded-lg text-lg transition-all duration-200 hover:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 opacity-0 absolute inset-0 w-full h-full" accept="image/*,.pdf,.docx">
         </div>
 
-        <p class="text-center text-sm text-blue-600 italic">Submit your product visualized here for a chance to showcase your idea!</p>
+        <p class="text-center text-sm text-blue-600 italic">Submit your product visualized for a chance to showcase your idea!</p>
 
         <div class="col-span-2 flex items-center">
           <input type="checkbox" bind:checked={form.confirmSubmission} class="mr-2">

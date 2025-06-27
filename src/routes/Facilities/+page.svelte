@@ -17,19 +17,13 @@
       link: "/auditorium"  // Link to another page
     },
     {
-      title: "Seminar Hall 1",
+      title: "Seminar Halls",
       image: "https://i.postimg.cc/Yq4GMgvj/Whats-App-Image-2025-04-24-at-13-14-28-f5789805.jpg",
-      description: "The modern conference hall hosts seminars, workshops, and meetings in a professional, sound-insulated environment.",
+      description: "We have 2 seminar halls with a seating capacity of 200 people each. The modern conference hall hosts seminars, workshops, and meetings.",
       link: "/conference-rooms"
     },
 
-    {
-      title: "Seminar Hall 2",
-      image: "https://i.postimg.cc/Yq4GMgvj/Whats-App-Image-2025-04-24-at-13-14-28-f5789805.jpg",
-     
-      description: "The modern conference hall hosts seminars, workshops, and meetings in a professional, sound-insulated environment.",
-      link: "/conference-rooms2"
-    },
+    
 
     {
       title: "Classrooms",
@@ -43,7 +37,35 @@
       image: "https://i.postimg.cc/NG2B0xxh/DSC-0854.jpg",
       description: "Our state-of-the-art labs provide hands-on experiences, nurturing innovation and practical understanding.",
       link: "/labs"
-    }
+    },
+    {
+      title: "Gym",
+      image: "https://engg.cambridge.edu.in/wp-content/uploads/2025/05/RY3A2863-2048x1365.jpg",
+      description: "Our Gym are well eqiuped with modern equipments and provide hands-on experiences, nurturing fitness",
+      link: "/gym"
+    },
+     {
+      title: "Canteen",
+      image: "https://engg.cambridge.edu.in/wp-content/uploads/2025/05/DSC_9035-1-2048x1363.jpg ",
+      description: "Our canteen are well eqiuped with modern equipments and provide hands-on experiences, nurturing fitness",
+      link: "/canteen"
+    },    
+
+
+  {
+      title: "Transportation",
+      image: "https://engg.cambridge.edu.in/wp-content/uploads/2022/01/transport-2048x1367.webp ",
+      description: "Our transport are well eqiuped with modern equipments and provide hands-on experiences, nurturing fitness",
+      link: "/trans"
+    },    
+
+    
+ {
+      title: "Library",
+      image: "https://engg.cambridge.edu.in/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-28-at-12.34.23-PM-3-2048x1358.jpeg ",
+      description: "Our library are well eqiuped with modern equipments and provide hands-on experiences, nurturing fitness",
+      link: "/li"
+    }, 
    
   ];
 </script>

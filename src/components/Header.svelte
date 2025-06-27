@@ -7,7 +7,7 @@
 	let scrollY = 0;
 
 	const navLinks = [
-		{ href: 'http://localhost:5173/', text: 'Home' },
+		{ href: 'https://cic-sparkle.vercel.app/', text: 'Home' },
 		{ href: '/about', text: 'About Us' },
 		{ href: '/calendar', text: 'Calendar of Events' },
 		{ href: '/facilities', text: 'Facilities' },
@@ -74,11 +74,11 @@
 			</div>
 
 			<div class="flex items-center">
-				<img src={CIC} alt="CIC" class="relative right-13 h-9 w-auto transition-transform hover:scale-105" />
+				<img src={CIC} alt="CIC" class="relative right-13 h-8 w-auto transition-transform hover:scale-105" />
 			</div>
 
 			<div class="flex items-center">
-				<img src={CHOSS} alt="CHOSS" class="h-9 w-auto transition-transform hover:scale-105" />
+				<img src={CHOSS} alt="CHOSS" class="h-10 w-auto transition-transform hover:scale-105" />
 			</div>
 		</div>
 

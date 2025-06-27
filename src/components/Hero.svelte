@@ -95,7 +95,7 @@
 	</div>
   
 	<!-- Scrolling Marquee -->
-	<div class="flex w-[68%]">
+	<div class="flex w-[65%]">
 	  <!-- 70% Scrolling Content -->
 	  <div class="w-full marquee-container overflow-hidden relative">
 		<div class="marquee-content flex gap-6 animate-marquee whitespace-nowrap">
@@ -264,31 +264,31 @@
 	</div>
   
 	<!-- 30% Circle Section -->
-	<div class="fixed top-33 right-30 w-40 z-40">
+	<div class="fixed top-33 right-30 w-50 z-40">
 		<div class="relative right-2 bottom-1 flex justify-between items-center text-white gap-2">
 		  
 		  <!-- Node A -->
 		  <button on:click={() => scrollToPosition(830)} class="flex flex-col items-center group text-center">
-			<div class="w-2.5 h-2.5 rounded-full bg-[#0b81bb] border border-white shadow-md transition group-hover:shadow-[0_0_6px_#f6d287]"></div>
-			<span class="text-[10px] text-[#f6d287] font-semibold leading-none mt-1">Innovation</span>
+			<div class="w-2 h-2.5 rounded-full bg-[#0b81bb] border border-white shadow-md transition group-hover:shadow-[0_0_6px_#f6d287]"></div>
+			<span class="text-[10px] text-[#f6d287] font-semibold leading-none  ml-1 mr-1">Innovation</span>
 		  </button>
 	  
 		  <!-- Node B -->
 		  <button on:click={() => scrollToPosition(1300)} class="flex flex-col items-center group text-center">
 			<div class="w-2.5 h-2.5 rounded-full bg-[#0b81bb] border border-white shadow-md transition group-hover:shadow-[0_0_6px_#f6d287]"></div>
-			<span class="text-[10px] text-[#f6d287] font-semibold leading-none mt-1">Team</span>
+			<span class="text-[10px] text-[#f6d287] font-semibold leading-none ml-1 mr-1">Team</span>
 		  </button>
 	  
 		  <!-- Node C -->
 		  <button on:click={() => scrollToPosition(2680)} class="flex flex-col items-center group text-center">
 			<div class="w-2.5 h-2.5 rounded-full bg-[#0b81bb] border border-white shadow-md transition group-hover:shadow-[0_0_6px_#f6d287]"></div>
-			<span class="text-[10px] text-[#f6d287] font-semibold  leading-none mt-1">Startups</span>
+			<span class="text-[10px] text-[#f6d287] font-semibold  leading-none ml-1 mr-1">Startups</span>
 		  </button>
 	  
 		  <!-- Node D -->
 		  <button on:click={() => scrollToPosition(3200)} class="flex flex-col items-center group text-center">
 			<div class="w-2.5 h-2.5 rounded-full bg-[#0b81bb] border border-white shadow-md transition group-hover:shadow-[0_0_6px_#f6d287]"></div>
-			<span class="text-[10px] text-[#f6d287] font-semibold leading-none mt-1">Ideas</span>
+			<span class="text-[10px] text-[#f6d287] font-semibold leading-none ml-1 mr-1">Ideas</span>
 		  </button>
 	  
 		</div>

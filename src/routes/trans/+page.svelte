@@ -1,10 +1,11 @@
 <script>
     const images = [
-    'https://i.postimg.cc/N0Cyb8WL/Whats-App-Image-2025-04-24-at-13-07-15-4da42ecc.jpg',
-      
-      'https://engg.cambridge.edu.in/wp-content/uploads/2023/06/DSC_0058-2048x1362.jpg',
+      'https://engg.cambridge.edu.in/wp-content/uploads/2022/01/transport-2048x1367.webp',
     
-    ];
+    ' https://engg.cambridge.edu.in/wp-content/uploads/2022/01/transport-1-2048x1362.webp'
+
+     
+]
   </script>
   
   <style>
@@ -110,11 +111,11 @@
   <div class="page">
     <div class="greeting">
       <div class="header">
-        <h2>Cambarian Incubation Center (CIC)</h2>
+        <h2>Transportation </h2>
         <div class="flex items-center gap-3 mt-2 mb-1">
           <span class="w-2 h-2 bg-blue-900 rounded-full"></span>
           <span class="w-2 h-2 bg-blue-900 rounded-full"></span>
-          <div class="w-[480px] h-0.5 bg-blue-900 ml-2"></div>
+          <div class="w-[150px] h-0.5 bg-blue-900 ml-2"></div>
         </div>
       </div>
     </div>
