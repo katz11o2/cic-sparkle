@@ -78,7 +78,7 @@
 			</div>
 
 			<div class="flex items-center">
-				<img src={CHOSS} alt="CHOSS" class="h-10 w-auto transition-transform hover:scale-105" />
+				<img src={CHOSS} alt="CHOSS" class="h-11 w-auto transition-transform hover:scale-105" />
 			</div>
 		</div>
 
