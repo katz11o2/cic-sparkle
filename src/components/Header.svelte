@@ -90,7 +90,7 @@
 				←
 			</button>
 		
-			<a href="http://localhost:5173/" class="hover:underline" target="_self">Home</a>
+			<a href="https://cic-sparkle.vercel.app/" class="hover:underline" target="_self">Home</a>
 			<a href="/Abb" class="hover:underline" target="_self">About Us</a>
 			<a href="/programs" class="hover:underline" target="_self">Calendar of Events</a>
 			<a href="/Facilities" class="hover:underline" target="_self">Facilities</a>
