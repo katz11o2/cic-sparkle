@@ -75,6 +75,19 @@
                   <img src={entry.visualizedProduct} alt="Visual" class="max-w-xs rounded-md border" />
                 </div>
               {/if}
+
+              <!-- Dummy Send Section -->
+              <div class="mt-4 flex flex-col md:flex-row md:items-center gap-2 text-sm">
+                <select class="border border-gray-300 rounded-md px-2 py-1 bg-gray-100 text-gray-700 w-full md:w-auto">
+                  <option disabled selected>Send to</option>
+                  <option>CSE HOD</option>
+                  <option>ECE HOD</option>
+                  <option>MECH HOD</option>
+                  <option>CIVIL HOD</option>
+                </select>
+                <input type="text" placeholder="Comments..." class="flex-1 border border-gray-300 rounded-md px-2 py-1 text-sm" />
+                <button class="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 rounded-md text-sm">Send</button>
+              </div>
             </div>
           {/each}
         </div>
@@ -111,6 +124,19 @@
                   <img src={entry.visualizedProduct} alt="Visual" class="max-w-xs rounded-md border" />
                 </div>
               {/if}
+
+              <!-- Dummy Send Section -->
+              <div class="mt-4 flex flex-col md:flex-row md:items-center gap-2 text-sm">
+                <select class="border border-gray-300 rounded-md px-2 py-1 bg-gray-100 text-gray-700 w-full md:w-auto">
+                  <option disabled selected>Send to</option>
+                  <option>CSE HOD</option>
+                  <option>ECE HOD</option>
+                  <option>MECH HOD</option>
+                  <option>CIVIL HOD</option>
+                </select>
+                <input type="text" placeholder="Comments..." class="flex-1 border border-gray-300 rounded-md px-2 py-1 text-sm" />
+                <button class="bg-blue-500 hover:bg-blue-600 text-white px-3 py-1 rounded-md text-sm">Send</button>
+              </div>
             </div>
           {/each}
         </div>
