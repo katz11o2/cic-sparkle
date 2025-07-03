@@ -111,30 +111,27 @@ function goTo(page) {
 
   <!-- Box 1 -->
  <div class="w-[130px] h-[150px] border border-transparent flex flex-col items-center justify-center bg-white p-2">
-  <img src="/logos/factory.gif" alt="Factory Animation" class="w-10s h-10 object-contain mb-1" />
- <p class="text-sm text-center mt-2 font-semibold font-[Poppins]" style="color: #17194a;">
-  15+ Industry Partners
-</p>
-
+  <img src="/logos/factory.gif" alt="Factory Animation" class="w-10 h-10 object-contain mb-1" />
+  <p style="color: #17194a; font-family: 'Poppins', sans-serif;" class="text-sm text-center mt-2">
+    15+ Industry Partners
+  </p>
 </div>
 
 
   <!-- Box 2 -->
   <div class="w-[125px] h-[145px] border border-transparent flex flex-col items-center justify-center bg-white p-2">
     <img src="/logos/certificate.gif" alt="Certificate Animation" class="w-10 h-10 object-contain mb-1" />
-    <p class="text-sm text-center mt-2 font-semibold font-[Poppins]" style="color: #17194a;">
-  1500+ Patents filled
-</p>
-
+    <p style="color: #17194a; font-family: 'Poppins', sans-serif;" class="text-sm text-center mt-2">
+    1500+ Patents filed
+  </p>
   </div>
 
   <!-- Box 3 -->
   <div class="w-[125px] h-[145px] border border-transparent flex flex-col items-center justify-center bg-white p-2">
     <img src="/logos/success.gif" alt="Success Animation" class="w-10 h-10 object-contain mb-1" />
-   <p class="text-sm text-center mt-2 font-semibold font-[Poppins]" style="color: #17194a;">
-  15+ Years of Experience
-</p>
-
+   <p style="color: #17194a; font-family: 'Poppins', sans-serif;" class="text-sm text-center mt-2">
+    15+ Years of Experience
+  </p>
   </div>
 
 </div>
@@ -270,17 +267,17 @@ function goTo(page) {
     </a>
 
     <!-- 4 Boxes Row -->
-    <div class="flex flex-nowrap justify-start gap-3 w-full max-w-9xl mx-20 mt-7 overflow-hidden">
+    <div class="flex flex-nowrap justify-start gap-6 w-full max-w-9xl mx-auto mt-7 overflow-hidden">
       <div class="flex items-center w-[280px] h-[140px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-3 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60">
         <img src="https://engg.cambridge.edu.in/wp-content/uploads/2023/06/Dean.png" alt="Dean" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
         <div>
-          <h3 class="text-[#000A30] font-semibold text-sm">Dr.Shanthi S </h3>
+          <h3 class="text-[#000A30] font-semibold text-sm">Dr.Shanthi S R</h3>
           <p class="text-[10px] text-[#000A30]">Professor & Dean, BS, CITech</p>
         </div>
       </div>
     
      <div class="flex items-center w-[300px] h-[140px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-3 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60">
-  <img src="https://media.licdn.com/dms/image/v2/C4D03AQHXSzSF4MXFKA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516239447507?e=1756944000&v=beta&t=_WfHvEoFmJ6BSKU4_L2tYoh9nEpTVDYXFCMPKO5UqGQ" alt="Dr. Shreekanth" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
+  <img src="https://i.ibb.co/C3QDyyrM/istockphoto-1075374570-612x612-1.jpg" alt="Dr. Shreekanth" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
   <div>
     <h3 class="text-[#000A30] font-semibold text-sm">Dr. Shreekanth M Prabhu</h3>
     <p class="text-[10px] text-[#000A30]">Professor & Head, CSE, CITech</p>
@@ -289,7 +286,7 @@ function goTo(page) {
 
     
       <div class="flex items-center w-[300px] h-[140px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-3 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60">
-        <img src="https://faculty.cambridge.edu.in/wp-content/uploads/2021/08/Ms.-Preethi-S-associate-professor.jpg" alt="Preethi" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
+        <img src="https://i.ibb.co/C3QDyyrM/istockphoto-1075374570-612x612-1.jpg" alt="Preethi" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
         <div>
           <h3 class="text-[#000A30] font-semibold text-sm">Dr. Preethi S</h3>
           <p class="text-[10px] text-[#000A30]">Professor & Head, <br> ISE, CITech</p>
@@ -297,7 +294,7 @@ function goTo(page) {
       </div>
     
       <div class="flex items-center w-[300px] h-[140px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-3 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60">
-        <img src="https://i.ibb.co/j9NC2qKf/Whats-App-Image-2025-07-03-at-16-22-44-a6d0468c.jpg" alt="Sandeep" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
+        <img src="https://i.ibb.co/C3QDyyrM/istockphoto-1075374570-612x612-1.jpg" alt="Sandeep" class="w-[100px] h-[100px] object-cover rounded-xl mr-4">
         <div>
           <h3 class="text-[#000A30] font-semibold text-sm">Dr. Sandeep Kumar</h3>
           <p class="text-[10px] text-[#000A30]">Professor & Head, <br> CS-IOT, CITech</p>
@@ -307,7 +304,7 @@ function goTo(page) {
     
   
 
-    <div class="flex justify-start gap-15 w-full max-w-7xl mx-25 mt-10">
+    <div class="flex justify-start gap-4 w-full max-w-9xl mx-auto mt-10">
       <!-- Card 1 -->
       <div class="flex items-center w-[260px] h-[120px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
         <img src="https://engg.cambridge.edu.in/wp-content/uploads/2023/06/536e21ff-2f83-4f7f-8cfb-f3707a562081.jpg" alt="Dr.Varalatchoumy M" class="w-[90px] h-[90px] object-cover rounded-xl mr-3">
@@ -327,7 +324,13 @@ function goTo(page) {
       </div>
     
       <!-- Card 3 -->
-      
+      <div class="flex items-center w-[260px] h-[120px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
+        <img src="https://engg.cambridge.edu.in/wp-content/uploads/2021/11/hema.jpg" alt="Prof. Hema. A" class="w-[90px] h-[90px] object-cover rounded-xl mr-3">
+        <div>
+          <h3 class="text-[#000A30] font-semibold text-sm">Prof. Hema A</h3>
+          <p class="text-[10px] text-[#000A30]">Associate Professor & Head, EEE, CITech</p>
+        </div>
+      </div>
     
       <!-- Card 4 -->
       <div class="flex items-center w-[290px] h-[120px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
@@ -340,7 +343,7 @@ function goTo(page) {
     </div>
     
 
-    <div class="flex justify-center gap-1 w-full max-w-9xl mx-30 mt-8">
+    <div class="flex justify-center gap-7 w-full max-w-9xl mx-auto mt-8">
       <!-- Card 1 -->
       <div class="flex items-center w-[330px] h-[130px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
         <img src="https://engg.cambridge.edu.in/wp-content/uploads/2021/03/mech-hod-Dr-Suneelkumar-N-Kulkarni.jpg" alt="Dr. Suneelkumar N Kulkarni" class="w-[60px] h-[60px] object-cover rounded-xl mr-3">
@@ -352,7 +355,7 @@ function goTo(page) {
     
       <!-- Card 2 -->
       <div class="flex items-center w-[330px] h-[130px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
-        <img src="https://media.licdn.com/dms/image/v2/C5103AQGpD02sI7GKMQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1549959731357?e=1756944000&v=beta&t=omuQH2WZkzm924M4qZ8RoC_oterb_Ictzi6a3bQRNJU" alt="Dr. Ravi" class="w-[60px] h-[60px] object-cover rounded-xl mr-3">
+        <img src="https://i.ibb.co/C3QDyyrM/istockphoto-1075374570-612x612-1.jpg" alt="Dr. Ravi" class="w-[60px] h-[60px] object-cover rounded-xl mr-3">
         <div>
           <h3 class="text-[#000A30] font-semibold text-sm">Dr. Ravi</h3>
           <p class="text-[10px] text-[#000A30]">Professor & Head, MBA, CITech</p>
@@ -361,7 +364,7 @@ function goTo(page) {
     
       <!-- Card 3 -->
       <div class="flex items-center w-[330px] h-[130px] bg-white/30 backdrop-blur-md border border-white/40 rounded-2xl shadow-xl p-2 hover:scale-105 hover:shadow-2xl hover:bg-white/40 hover:border-white/60 transition-all duration-300">
-        <img src="https://sp.yimg.com/ib/th/id/OIP.L7jpVpjNMvRkOL3mVRVpWgHaHa?pid=Api&w=148&h=148&c=7&dpr=2&rs=1" alt="Prof. Diwakar Karadi" class="w-[60px] h-[60px] object-cover rounded-xl mr-3">
+        <img src="https://i.ibb.co/C3QDyyrM/istockphoto-1075374570-612x612-1.jpg" alt="Prof. Diwakar Karadi" class="w-[60px] h-[60px] object-cover rounded-xl mr-3">
         <div>
           <h3 class="text-[#000A30] font-semibold text-sm">Prof. Diwakar Karadi</h3>
           <p class="text-[10px] text-[#000A30]">Assistant Professor & Head, MCA, CITech</p>
