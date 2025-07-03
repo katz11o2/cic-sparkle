@@ -86,6 +86,7 @@
 	</a>
 </div>
 
+<<<<<<< HEAD
 
 		<!-- Quick Links -->
 <!-- Quick Links -->
@@ -110,6 +111,33 @@
 </div>
 
 
+=======
+			<div class="flex items-center">
+				<img src={CHOSS} alt="CHOSS" class="h-11 w-auto transition-transform hover:scale-105" />
+			</div>
+		</div>
+
+		<!-- Quick Links -->
+		<div class="w-full h-[30px] flex items-center justify-center space-x-6 text-sm font-semibold text-white relative">
+			<!-- Back Arrow Button -->
+			<button on:click={() => history.back()}
+				class="absolute left-25 w-7 h-7 flex items-center justify-center text-white text-lg animate-wiggle hover:scale-105 transition-transform duration-200">
+				←
+			</button>
+		
+			<a href="https://cic-sparkle.vercel.app/" class="hover:underline" target="_self">Home</a>
+			<a href="/Abb" class="hover:underline" target="_self">About Us</a>
+			<a href="/programs" class="hover:underline" target="_self">Calendar of Events</a>
+			<a href="/Facilities" class="hover:underline" target="_self">Facilities</a>
+			<a href="/beneficiaries" class="hover:underline" target="_self">Beneficiaries</a>
+			<a href="/login" class="relative inline-block text-white hover:underline hover:text-glow transition duration-300">
+				<span class="">Design Challenges</span>
+			</a>
+			<a href="https://engg.cambridge.edu.in/photo-gallery/" class="hover:underline" target="_blank" rel="noopener noreferrer">Gallery</a>
+			<a href="/login" class="hover:underline" target="_self">Register/Login</a>
+			<a href="/contact" class="hover:underline" target="_self">Contact Us</a>
+		</div>
+>>>>>>> 52f904a9aa1a05184add3030b86cd179862fa7d2
 		<!-- Mobile Menu Links -->
 		{#if isMenuOpen}
 			<div class="absolute top-full right-0 left-0 border-t border-white/10 bg-slate-900/95 shadow-lg backdrop-blur-sm z-50"
